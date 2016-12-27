@@ -4,7 +4,7 @@
   "env": {
     "browser": true,
     "mocha": true,
-    "node": true
+    "node": true,
   },
   "rules": {
     "quotes": [2, "single"],
@@ -13,3 +13,10 @@
     "no-underscore-dangle": [0]
   }
 }
+# {
+#   "parserOptions": {
+#     "ecmaFeatures": {
+#       "jsx": true
+#     }
+#   }
+# }
