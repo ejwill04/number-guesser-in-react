@@ -10,10 +10,11 @@
     "quotes": [2, "single"],
     "eol-last": [0],
     "no-mixed-requires": [0],
-    "no-underscore-dangle": [0]
+    "no-underscore-dangle": [0],
+    "max-len": [1, 120],
   }
 }
-# {
+# {x
 #   "parserOptions": {
 #     "ecmaFeatures": {
 #       "jsx": true
